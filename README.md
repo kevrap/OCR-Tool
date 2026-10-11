@@ -12,7 +12,7 @@ A desktop app that sends scanned handwritten documents directly to a local [Olla
 ## Installation
 
 ```bash
-pip install requests pillow fpdf2 pypdfium2
+pip install -r requirements.txt
 ```
 
 ## Usage
